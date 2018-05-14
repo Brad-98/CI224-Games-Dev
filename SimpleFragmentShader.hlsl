@@ -13,6 +13,6 @@ void main() {
 
 	// Output color = color of the texture at the specified UV
 
-	color = vec3(1.0,0.0,0.0);//texture(myTextureSampler, UV).rgb;
+	color = vec3(1.0,1.0,0.0);//texture(myTextureSampler, UV).rgb;
 
 }
